@@ -1,0 +1,2 @@
+# laravel-inertia-vue-crud
+ 
